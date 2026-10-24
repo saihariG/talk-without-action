@@ -1,0 +1,1452 @@
+[
+ {
+  "seller": "Seller Ana",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 2,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Lena",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Yara",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Tara",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ }
+]

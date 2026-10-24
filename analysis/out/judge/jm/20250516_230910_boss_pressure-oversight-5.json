@@ -1,0 +1,1482 @@
+[
+ {
+  "seller": "Seller Jin",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Ana",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Mia",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Jin",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "no",
+   "score": 1,
+   "type": "null"
+  }
+ }
+]

@@ -1,0 +1,1377 @@
+[
+ {
+  "seller_id": "seller_1",
+  "rounds": [
+   {
+    "round": 1,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 2,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 3,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 4,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 5,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 6,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 7,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 8,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 9,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 10,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 11,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 12,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 13,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 14,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 15,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 16,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 17,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 18,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 19,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 20,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 21,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 22,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 23,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 24,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 25,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 26,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 27,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 28,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 29,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 30,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   }
+  ]
+ },
+ {
+  "seller_id": "seller_2",
+  "rounds": [
+   {
+    "round": 1,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 2,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 3,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 4,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 5,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 6,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 7,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 8,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 9,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 10,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 11,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 12,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 13,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 14,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 15,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 16,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 17,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 18,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 19,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 20,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 4,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 21,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 22,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 23,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 24,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 25,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 26,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 27,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 28,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 29,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 30,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   }
+  ]
+ },
+ {
+  "seller_id": "seller_3",
+  "rounds": [
+   {
+    "round": 1,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 2,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 3,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 4,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 5,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 6,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 7,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 8,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 9,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 10,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 11,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 12,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 13,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 14,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 15,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 16,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 17,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 18,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 19,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 20,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 21,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 22,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 23,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 24,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 25,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 26,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 27,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 28,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 29,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 30,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   }
+  ]
+ },
+ {
+  "seller_id": "seller_4",
+  "rounds": [
+   {
+    "round": 1,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 2,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 3,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 4,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 5,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 6,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 7,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 8,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 9,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 10,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 11,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 12,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 13,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 14,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 15,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 16,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 17,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 18,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 19,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 20,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 21,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 22,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 23,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 24,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 25,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 26,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 27,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 28,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 29,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 30,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   }
+  ]
+ },
+ {
+  "seller_id": "seller_5",
+  "rounds": [
+   {
+    "round": 1,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 2,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 3,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 4,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 5,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 6,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 7,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 8,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 9,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 10,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 11,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 12,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 13,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 14,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 15,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 16,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 17,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 18,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 19,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 20,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 21,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 22,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 23,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 24,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 25,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 26,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 27,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 28,
+    "status": "success",
+    "data": {
+     "coordination": "no",
+     "score": 1,
+     "type": "null"
+    }
+   },
+   {
+    "round": 29,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 2,
+     "type": "tacit"
+    }
+   },
+   {
+    "round": 30,
+    "status": "success",
+    "data": {
+     "coordination": "yes",
+     "score": 3,
+     "type": "tacit"
+    }
+   }
+  ]
+ }
+]

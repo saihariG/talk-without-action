@@ -1,0 +1,1502 @@
+[
+ {
+  "seller": "Seller Leo",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 1,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 2,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 3,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 4,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 5,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 6,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 7,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 8,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 9,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 10,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 11,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "tacit"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 12,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 3,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 13,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 14,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 15,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 16,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 17,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 18,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 19,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 20,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 21,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 22,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 23,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 24,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 25,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 26,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 27,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 28,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 29,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Kit",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Leo",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Maya",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "both"
+  }
+ },
+ {
+  "seller": "Seller Max",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ },
+ {
+  "seller": "Seller Omar",
+  "round": 30,
+  "status": "success",
+  "data": {
+   "coordination": "yes",
+   "score": 4,
+   "type": "overt"
+  }
+ }
+]

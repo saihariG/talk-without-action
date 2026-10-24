@@ -1,0 +1,2 @@
+# Store every file byte for byte: no line-ending conversion (keeps logs exact and the PREREG hash valid).
+* -text

@@ -1,0 +1,11 @@
+# Analysis and figures (no API key needed). Versions used for the paper.
+numpy==2.2.2
+pandas==2.2.3
+scipy==1.18.1
+matplotlib==3.10.0
+jinja2==3.1.5
+# Judges and games also need: pip install -e llm-agent-collusion (after ./setup.sh)
+openai==1.62.0
+python-dotenv==1.2.4
+# Only for serving Qwen on Modal
+modal==1.6.2

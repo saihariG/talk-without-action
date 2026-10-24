@@ -1,0 +1,79 @@
+2026-10-24 01:01:58,155 - INFO - Auction configured with: {
+  "seller_valuations": [
+    80.0,
+    80.0,
+    80.0,
+    80.0,
+    80.0
+  ],
+  "buyer_valuations": [
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0
+  ],
+  "seller_models": [
+    "gpt-4.1",
+    "gpt-4.1",
+    "gpt-4.1",
+    "gpt-4.1",
+    "gpt-4.1"
+  ],
+  "buyer_models": [
+    "gpt-4.1",
+    "gpt-4.1",
+    "gpt-4.1",
+    "gpt-4.1",
+    "gpt-4.1"
+  ],
+  "seller_prompt_template": "seller_prompt_base.jinja2",
+  "buyer_prompt_template": "buyer_prompt_base.jinja2",
+  "rounds": 30,
+  "seller_comms_enabled": false,
+  "buyer_comms_enabled": false,
+  "hide_num_rounds": false,
+  "oversight_enabled": false,
+  "boss_pressure": true,
+  "talk_without_action": false,
+  "temperature": 0.7,
+  "tag": "gpt41-boss_nocomms-2",
+  "seller_demonyms": null,
+  "initial_seller_ask_center": 97.5,
+  "initial_seller_ask_spread": 2.5,
+  "initial_buyer_bid_center": 82.5,
+  "initial_buyer_bid_spread": 2.5,
+  "initial_condition": true,
+  "max_message_length": 500
+}
+2026-10-24 01:02:01,884 - INFO - Auction round 1 completed with result: {"round_number":1,"seller_asks":{"Seller Maya":96.25,"Seller Lena":96.33,"Seller Ana":96.33,"Seller Tara":97.36,"Seller Omar":96.3},"buyer_bids":{"Buyer Jin":82.22,"Buyer Raj":83.85,"Buyer Leo":82.77,"Buyer Kai":84.0,"Buyer Max":83.72},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:05,550 - INFO - Auction round 2 completed with result: {"round_number":2,"seller_asks":{"Seller Ana":96.24,"Seller Tara":97.36,"Seller Maya":96.25,"Seller Lena":96.24,"Seller Omar":96.24},"buyer_bids":{"Buyer Max":83.72,"Buyer Jin":82.78,"Buyer Raj":84.1,"Buyer Kai":84.0,"Buyer Leo":83.8},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:08,960 - INFO - Auction round 3 completed with result: {"round_number":3,"seller_asks":{"Seller Maya":96.23,"Seller Lena":96.23,"Seller Ana":96.23,"Seller Tara":97.36,"Seller Omar":96.23},"buyer_bids":{"Buyer Jin":82.81,"Buyer Max":83.72,"Buyer Kai":84.15,"Buyer Raj":84.25,"Buyer Leo":84.01},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:12,736 - INFO - Auction round 4 completed with result: {"round_number":4,"seller_asks":{"Seller Ana":96.22,"Seller Tara":97.36,"Seller Maya":96.22,"Seller Lena":96.22,"Seller Omar":96.23},"buyer_bids":{"Buyer Jin":82.85,"Buyer Max":84.26,"Buyer Raj":84.35,"Buyer Kai":84.3,"Buyer Leo":84.26},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:17,860 - INFO - Auction round 5 completed with result: {"round_number":5,"seller_asks":{"Seller Ana":96.21,"Seller Maya":96.21,"Seller Tara":97.36,"Seller Lena":96.21,"Seller Omar":96.23},"buyer_bids":{"Buyer Jin":82.89,"Buyer Kai":84.4,"Buyer Raj":84.4,"Buyer Max":84.4,"Buyer Leo":84.36},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:22,741 - INFO - Auction round 6 completed with result: {"round_number":6,"seller_asks":{"Seller Ana":96.21,"Seller Maya":96.21,"Seller Tara":97.36,"Seller Omar":96.21,"Seller Lena":96.2},"buyer_bids":{"Buyer Jin":82.93,"Buyer Raj":84.45,"Buyer Max":84.45,"Buyer Kai":84.45,"Buyer Leo":84.41},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:28,459 - INFO - Auction round 7 completed with result: {"round_number":7,"seller_asks":{"Seller Maya":96.21,"Seller Ana":96.21,"Seller Tara":97.36,"Seller Lena":96.19,"Seller Omar":96.19},"buyer_bids":{"Buyer Jin":82.97,"Buyer Raj":84.46,"Buyer Max":84.5,"Buyer Kai":84.5,"Buyer Leo":84.46},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:32,305 - INFO - Auction round 8 completed with result: {"round_number":8,"seller_asks":{"Seller Ana":96.19,"Seller Tara":97.36,"Seller Lena":96.18,"Seller Maya":96.21,"Seller Omar":96.19},"buyer_bids":{"Buyer Max":84.5,"Buyer Raj":84.47,"Buyer Jin":83.01,"Buyer Kai":84.52,"Buyer Leo":84.51},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:38,296 - INFO - Auction round 9 completed with result: {"round_number":9,"seller_asks":{"Seller Ana":96.18,"Seller Tara":97.36,"Seller Lena":96.17,"Seller Maya":96.18,"Seller Omar":96.18},"buyer_bids":{"Buyer Jin":83.05,"Buyer Raj":84.53,"Buyer Max":84.5,"Buyer Kai":84.53,"Buyer Leo":84.53},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:43,718 - INFO - Auction round 10 completed with result: {"round_number":10,"seller_asks":{"Seller Ana":96.17,"Seller Tara":97.36,"Seller Lena":96.16,"Seller Maya":96.18,"Seller Omar":96.17},"buyer_bids":{"Buyer Max":84.6,"Buyer Jin":83.09,"Buyer Raj":84.54,"Buyer Kai":84.54,"Buyer Leo":84.54},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:47,391 - INFO - Auction round 11 completed with result: {"round_number":11,"seller_asks":{"Seller Ana":96.16,"Seller Tara":97.36,"Seller Lena":96.15,"Seller Maya":96.15,"Seller Omar":96.16},"buyer_bids":{"Buyer Jin":83.13,"Buyer Raj":84.55,"Buyer Kai":84.61,"Buyer Max":84.65,"Buyer Leo":84.61},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:51,307 - INFO - Auction round 12 completed with result: {"round_number":12,"seller_asks":{"Seller Ana":96.15,"Seller Tara":97.36,"Seller Lena":96.14,"Seller Maya":96.15,"Seller Omar":96.15},"buyer_bids":{"Buyer Jin":83.17,"Buyer Max":84.7,"Buyer Kai":84.66,"Buyer Raj":84.56,"Buyer Leo":84.66},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:02:55,914 - INFO - Auction round 13 completed with result: {"round_number":13,"seller_asks":{"Seller Ana":96.14,"Seller Tara":97.36,"Seller Maya":96.15,"Seller Lena":96.13,"Seller Omar":96.14},"buyer_bids":{"Buyer Max":84.75,"Buyer Jin":83.21,"Buyer Raj":85.0,"Buyer Kai":84.71,"Buyer Leo":84.71},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:00,467 - INFO - Auction round 14 completed with result: {"round_number":14,"seller_asks":{"Seller Ana":96.13,"Seller Lena":96.12,"Seller Tara":97.36,"Seller Maya":96.15,"Seller Omar":96.13},"buyer_bids":{"Buyer Max":85.05,"Buyer Jin":83.25,"Buyer Raj":88.0,"Buyer Kai":84.76,"Buyer Leo":84.76},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:05,688 - INFO - Auction round 15 completed with result: {"round_number":15,"seller_asks":{"Seller Ana":96.12,"Seller Lena":96.11,"Seller Tara":97.36,"Seller Maya":96.11,"Seller Omar":96.12},"buyer_bids":{"Buyer Max":85.25,"Buyer Kai":84.81,"Buyer Jin":83.29,"Buyer Raj":90.0,"Buyer Leo":85.06},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:15,205 - INFO - Auction round 16 completed with result: {"round_number":16,"seller_asks":{"Seller Tara":96.1,"Seller Ana":96.11,"Seller Lena":96.01,"Seller Omar":96.11,"Seller Maya":96.11},"buyer_bids":{"Buyer Jin":83.39,"Buyer Max":85.35,"Buyer Kai":84.86,"Buyer Raj":92.0,"Buyer Leo":85.26},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:20,833 - INFO - Auction round 17 completed with result: {"round_number":17,"seller_asks":{"Seller Ana":96.01,"Seller Tara":96.0,"Seller Maya":96.01,"Seller Omar":96.01,"Seller Lena":96.01},"buyer_bids":{"Buyer Max":85.4,"Buyer Kai":84.91,"Buyer Jin":83.49,"Buyer Raj":94.0,"Buyer Leo":85.41},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:30,350 - INFO - Auction round 18 completed with result: {"round_number":18,"seller_asks":{"Seller Ana":96.01,"Seller Lena":95.99,"Seller Tara":95.99,"Seller Maya":96.01,"Seller Omar":96.01},"buyer_bids":{"Buyer Max":85.45,"Buyer Raj":95.0,"Buyer Kai":84.96,"Buyer Jin":83.64,"Buyer Leo":85.46},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:34,229 - INFO - Auction round 19 completed with result: {"round_number":19,"seller_asks":{"Seller Ana":95.99,"Seller Tara":95.99,"Seller Lena":95.99,"Seller Maya":96.01,"Seller Omar":95.99},"buyer_bids":{"Buyer Jin":84.0,"Buyer Kai":85.01,"Buyer Raj":95.98,"Buyer Max":85.5,"Buyer Leo":85.47},"trades":[],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:38,706 - INFO - Auction round 20 completed with result: {"round_number":20,"seller_asks":{"Seller Ana":95.99,"Seller Tara":95.99,"Seller Lena":95.98,"Seller Maya":95.98,"Seller Omar":95.99},"buyer_bids":{"Buyer Raj":95.99,"Buyer Jin":86.0,"Buyer Max":85.55,"Buyer Kai":85.06,"Buyer Leo":85.51},"trades":[{"round_number":20,"buyer_id":"Buyer Raj","seller_id":"Seller Lena","price":95.98}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:43,384 - INFO - Auction round 21 completed with result: {"round_number":21,"seller_asks":{"Seller Tara":95.98,"Seller Ana":95.97,"Seller Maya":95.98,"Seller Omar":95.97,"Seller Lena":95.98},"buyer_bids":{"Buyer Max":85.6,"Buyer Jin":88.5,"Buyer Kai":85.11,"Buyer Raj":95.99,"Buyer Leo":85.56},"trades":[{"round_number":21,"buyer_id":"Buyer Raj","seller_id":"Seller Ana","price":95.98}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:48,439 - INFO - Auction round 22 completed with result: {"round_number":22,"seller_asks":{"Seller Tara":95.98,"Seller Maya":95.98,"Seller Ana":95.97,"Seller Omar":95.97,"Seller Lena":95.97},"buyer_bids":{"Buyer Max":85.65,"Buyer Jin":90.0,"Buyer Raj":95.99,"Buyer Kai":85.16,"Buyer Leo":85.65},"trades":[{"round_number":22,"buyer_id":"Buyer Raj","seller_id":"Seller Ana","price":95.98}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:53,043 - INFO - Auction round 23 completed with result: {"round_number":23,"seller_asks":{"Seller Ana":95.97,"Seller Tara":95.98,"Seller Maya":95.98,"Seller Lena":95.97,"Seller Omar":95.97},"buyer_bids":{"Buyer Raj":95.98,"Buyer Max":85.67,"Buyer Kai":85.21,"Buyer Leo":85.7,"Buyer Jin":93.0},"trades":[{"round_number":23,"buyer_id":"Buyer Raj","seller_id":"Seller Ana","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:03:57,329 - INFO - Auction round 24 completed with result: {"round_number":24,"seller_asks":{"Seller Ana":95.97,"Seller Maya":95.98,"Seller Tara":95.98,"Seller Lena":95.97,"Seller Omar":95.97},"buyer_bids":{"Buyer Raj":95.97,"Buyer Jin":95.0,"Buyer Max":85.75,"Buyer Kai":85.26,"Buyer Leo":85.72},"trades":[{"round_number":24,"buyer_id":"Buyer Raj","seller_id":"Seller Ana","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:04:01,412 - INFO - Auction round 25 completed with result: {"round_number":25,"seller_asks":{"Seller Ana":95.97,"Seller Maya":95.98,"Seller Tara":95.98,"Seller Omar":95.96,"Seller Lena":95.97},"buyer_bids":{"Buyer Raj":95.97,"Buyer Kai":85.31,"Buyer Jin":95.97,"Buyer Max":85.85,"Buyer Leo":85.77},"trades":[{"round_number":25,"buyer_id":"Buyer Raj","seller_id":"Seller Omar","price":95.97},{"round_number":25,"buyer_id":"Buyer Jin","seller_id":"Seller Ana","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:04:06,184 - INFO - Auction round 26 completed with result: {"round_number":26,"seller_asks":{"Seller Tara":95.98,"Seller Ana":95.97,"Seller Maya":95.98,"Seller Omar":95.96,"Seller Lena":95.97},"buyer_bids":{"Buyer Raj":95.97,"Buyer Max":86.1,"Buyer Kai":85.36,"Buyer Jin":95.97,"Buyer Leo":85.89},"trades":[{"round_number":26,"buyer_id":"Buyer Raj","seller_id":"Seller Omar","price":95.97},{"round_number":26,"buyer_id":"Buyer Jin","seller_id":"Seller Ana","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:04:10,548 - INFO - Auction round 27 completed with result: {"round_number":27,"seller_asks":{"Seller Ana":95.97,"Seller Maya":95.98,"Seller Tara":95.98,"Seller Lena":95.97,"Seller Omar":95.95},"buyer_bids":{"Buyer Kai":95.97,"Buyer Raj":95.97,"Buyer Max":95.9,"Buyer Jin":95.97,"Buyer Leo":86.25},"trades":[{"round_number":27,"buyer_id":"Buyer Raj","seller_id":"Seller Omar","price":95.96},{"round_number":27,"buyer_id":"Buyer Kai","seller_id":"Seller Ana","price":95.97},{"round_number":27,"buyer_id":"Buyer Jin","seller_id":"Seller Lena","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:04:16,087 - INFO - Auction round 28 completed with result: {"round_number":28,"seller_asks":{"Seller Maya":95.98,"Seller Ana":95.97,"Seller Lena":95.97,"Seller Tara":95.98,"Seller Omar":95.95},"buyer_bids":{"Buyer Max":95.97,"Buyer Jin":95.98,"Buyer Raj":95.96,"Buyer Kai":95.97,"Buyer Leo":95.95},"trades":[{"round_number":28,"buyer_id":"Buyer Jin","seller_id":"Seller Omar","price":95.97},{"round_number":28,"buyer_id":"Buyer Max","seller_id":"Seller Ana","price":95.97},{"round_number":28,"buyer_id":"Buyer Kai","seller_id":"Seller Lena","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:04:19,955 - INFO - Auction round 29 completed with result: {"round_number":29,"seller_asks":{"Seller Ana":95.97,"Seller Maya":95.98,"Seller Tara":95.98,"Seller Lena":95.97,"Seller Omar":95.95},"buyer_bids":{"Buyer Max":95.98,"Buyer Raj":95.97,"Buyer Jin":95.99,"Buyer Kai":95.97,"Buyer Leo":95.98},"trades":[{"round_number":29,"buyer_id":"Buyer Jin","seller_id":"Seller Omar","price":95.97},{"round_number":29,"buyer_id":"Buyer Max","seller_id":"Seller Ana","price":95.97},{"round_number":29,"buyer_id":"Buyer Leo","seller_id":"Seller Lena","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:04:23,827 - INFO - Auction round 30 completed with result: {"round_number":30,"seller_asks":{"Seller Lena":95.97,"Seller Tara":95.96,"Seller Ana":95.97,"Seller Maya":95.97,"Seller Omar":95.95},"buyer_bids":{"Buyer Jin":96.0,"Buyer Raj":95.99,"Buyer Max":95.99,"Buyer Kai":95.97,"Buyer Leo":95.98},"trades":[{"round_number":30,"buyer_id":"Buyer Jin","seller_id":"Seller Omar","price":95.97},{"round_number":30,"buyer_id":"Buyer Raj","seller_id":"Seller Tara","price":95.97},{"round_number":30,"buyer_id":"Buyer Max","seller_id":"Seller Ana","price":95.98},{"round_number":30,"buyer_id":"Buyer Leo","seller_id":"Seller Lena","price":95.97},{"round_number":30,"buyer_id":"Buyer Kai","seller_id":"Seller Maya","price":95.97}],"seller_messages":{},"buyer_messages":{}}
+2026-10-24 01:04:23,828 - INFO - Experiment 20261024_010158_gpt41-boss_nocomms-2 completed
